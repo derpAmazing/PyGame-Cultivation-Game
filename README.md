@@ -8,5 +8,6 @@ You need to install PyGame (and have Python!). Run this in command prompt:
 pip install pygame
 ```
 The rest of the libraries (random and os) are standard libraries and should come with Python.
-Then to run the game, run main.py.
+
+To run the game, run main.py.
 
