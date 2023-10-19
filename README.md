@@ -3,9 +3,10 @@ Work-In-Progress Incremental Text-Based Cultivation Game in Python using PyGame.
 
 The game does not have much gameplay for now and only has 21 realms. It only has very foundational features, and even then those are incomplete. This game will be updated once in a while.
 
-To run the game, you need to install PyGame (and have Python!). Run this in command prompt:
+You need to install PyGame (and have Python!). Run this in command prompt:
 ```
 pip install pygame
 ```
-
 The rest of the libraries (random and os) are standard libraries and should come with Python.
+Then to run the game, run main.py.
+
