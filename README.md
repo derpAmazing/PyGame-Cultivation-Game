@@ -9,5 +9,5 @@ pip install pygame
 ```
 The rest of the libraries (random and os) are standard libraries and should come with Python.
 
-To run the game, run start.bat
+To run the game, run start.bat (Make sure you have Python in your system's PATH environment variable)
 
